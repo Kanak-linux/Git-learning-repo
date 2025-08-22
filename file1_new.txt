@@ -1,0 +1,7 @@
+thi is my practices file
+Hello Git
+wanted to know more about GIT_Lab
+this is my demo code
+Change by kanak
+this modification file
+Learing GIT activly  this is my untracked file.

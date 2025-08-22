@@ -1,0 +1,3 @@
+My first Git project
+I am exciceted to know more about GIT
+this is the second lines of my git
